@@ -10,4 +10,5 @@ R:body{
 }
 
 2)Qual as linhas de código determinam o usuário e senha como variaveis no arquivo script.js
-R:
+R: const username = loginForm.username.value;
+    const password = loginForm.password.value;
