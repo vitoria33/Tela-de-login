@@ -1,4 +1,4 @@
 1)Qual é a linha de código no arquivo style.css está a função que estiliza o body do site.
-R:
+R:...
 2)Qual as linhas de código determinam o usuário e senha como variaveis no arquivo script.js
 R:
